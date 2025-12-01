@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6CDFGHUrm"
+#define BLYNK_TEMPLATE_ID "====================="
 #define BLYNK_TEMPLATE_NAME "Embedded and IOT Project"
-#define BLYNK_AUTH_TOKEN "D_tysTydcSHnd6382dcRaWHwnu-iWCH_"
+#define BLYNK_AUTH_TOKEN "==================="
 
 #include <ESP32Servo.h>
 #include <WiFi.h>
