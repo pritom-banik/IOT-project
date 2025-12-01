@@ -25,14 +25,13 @@ The Metal Detection and Automated Sorting System begins by running a conveyor be
 - Jumper Wires (Male–Male, Male–Female)
 - 3 × 3.7V Rechargeable Lithium Batteries
 
-
+## Pictures and videos: 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/33ca0f4b-b8d1-4bb4-8971-55d37e5338c7" width="320" />
   <img src="https://github.com/user-attachments/assets/b07cb302-7a9a-4b71-9c33-a322c35fa232" width="320" />
 </p>
 
-
-https://github.com/user-attachments/assets/ed9a5f79-bd0a-4779-85e9-5b4c1fb402fb
+https://github.com/user-attachments/assets/3d6a0b66-533f-4272-825f-e1294ed135aa
 
 
 
